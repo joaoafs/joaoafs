@@ -1,5 +1,6 @@
 <h3 align="left">Welcome 👋</h3>
 
+######
 * 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 * ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 * 📫 How to reach me: **joaoamadeusantos@gmail.com**
