@@ -1,7 +1,7 @@
 <h3 align="left">Welcome 👋</h3>
 
 <h5>
-📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+📚 I´m Currently studing at </h5>[Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
 ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 
