@@ -1,4 +1,4 @@
-<h3> align="left">Welcome 👋</h3>
+<h3 align="left">Welcome 👋</h3>
 
 <h5>
 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
@@ -8,7 +8,7 @@
 📫 How to reach me: **joaoamadeusantos@gmail.com**
 </h5>
 
-<h3> align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
