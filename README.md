@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João Amadeu</h1>
-<h3 align="center">Information Systems and Telecommunications Engineering Student</h3>
+<h1 align="left">Hi 👋, I'm João Amadeu</h1>
+<h3 align="left">Information Systems and Telecommunications Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoafs&label=Profile%20views&color=0e75b6&style=flat" alt="joaoafs" /> </p>
 
