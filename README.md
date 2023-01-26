@@ -1,10 +1,10 @@
 <h3 align="left">Welcome 👋</h3>
 
-####   📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+###### 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
-####  ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
+###### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 
-####  📫 How to reach me: **joaoamadeusantos@gmail.com**
+###### 📫 How to reach me: **joaoamadeusantos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
