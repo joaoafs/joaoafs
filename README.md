@@ -1,13 +1,13 @@
-<h4 align="left">Hi 👋, I'm João Amadeu</h4>
-<h3 align="left">Information Systems and Telecommunications Engineering Student</h3>
+<h5 align="left">Welcome 👋</h5>
+<h3 align="left">Welcome to me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoafs&label=Profile%20views&color=0e75b6&style=flat" alt="joaoafs" /> </p>
 
-- 📚 Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
-- ✏️ Freelance Designer [AmadeuDesign](https://www.behance.net/amadeudesign)
+✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 
-- 📫 How to reach me **joaoamadeusantos@gmail.com**
+📫 How to reach me: **joaoamadeusantos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
