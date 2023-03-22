@@ -4,7 +4,7 @@
 #### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 #### 📫 How to reach me: **joaoamadeusantos@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h6 align="left">Connect with me:</h6>
 <p align="left">
 </p>
 
@@ -14,4 +14,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoafs&label=Profile%20views&color=0e75b6&style=flat" alt="joaoafs" /> </p>
 
-..
