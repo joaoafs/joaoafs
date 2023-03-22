@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hello+There!;Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3 align="left">Welcome 👋</h3>
+<h5 align="center"></h5>
 
 #### 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 #### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 #### 📫 How to reach me: **joaoamadeusantos@gmail.com**
+
+</h5>
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
