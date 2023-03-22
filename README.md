@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaoafs&show_icons=true&theme=dark&locale=en&layout=compact" alt="joaoafs" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaoafs&show_icons=true&theme=dark&locale=en" alt="joaoafs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaoafs&show_icons=true&theme=dark&locale=en" alt="joaoafs" /></p>
 
