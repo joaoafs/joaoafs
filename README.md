@@ -4,7 +4,7 @@
 ##### 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 ##### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 ##### 📫 How to reach me: **joaoamadeusantos@gmail.com**
-
+‎ 
 <h6 align="left">Connect with me:</h6>
   <br/>
     <a href="https://github.com/joaoafs/github-readme-stats"><img alt="João Amadeu Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
