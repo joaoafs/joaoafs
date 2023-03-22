@@ -3,7 +3,7 @@
 #### 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 #### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 #### 📫 How to reach me: **joaoamadeusantos@gmail.com**
-
+ 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaoafs&show_icons=true&theme=dark&locale=en&layout=compact" alt="joaoafs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaoafs&show_icons=true&theme=dark&locale=en" alt="joaoafs" /></p>
