@@ -8,8 +8,8 @@
 
 </h5>
 
-<h6 align="left">Connect with me:</h6>
-<p align="left">
+<h6 align="center">Connect with me:</h6>
+<p align="center">
 </p>
 
   <br/>
@@ -17,4 +17,4 @@
   <a href="https://github.com/joaoafs/github-readme-stats"><img alt="João Amadeu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoafs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoafs&label=Profile%20views&color=0e75b6&style=flat" alt="joaoafs" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaoafs&label=Profile%20views&color=0e75b6&style=flat" alt="joaoafs" /> </p>
