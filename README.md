@@ -4,7 +4,6 @@
 #### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 #### 📫 How to reach me: **joaoamadeusantos@gmail.com**
 ‎ 
-![joaoafs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafs&hide=contribs,prs)
 ![joaoafs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&theme=transparent)
 ‎ 
 <p align="left">
