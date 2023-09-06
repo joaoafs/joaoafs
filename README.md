@@ -4,15 +4,14 @@
 #### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
 #### 📫 How to reach me: **joaoamadeusantos@gmail.com**
 ‎ 
-![joaoafs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&theme=transparent)
-‎ 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/joaoafs/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/joaoafs/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafs&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
+
 <p align="left">
 <a href="https://linkedin.com/in/jamadeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamadeu" height="30" width="40" /></a>
 </p>
