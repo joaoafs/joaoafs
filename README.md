@@ -5,6 +5,7 @@
 #### 📫 How to reach me: **joaoamadeusantos@gmail.com**
 ‎ 
 ![joaoafs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafs&hide=contribs,prs)
+![joaoafs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&theme=transparent)
 ‎ 
 <p align="left">
 <a href="https://linkedin.com/in/jamadeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamadeu" height="30" width="40" /></a>
