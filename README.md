@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&width=435&height=30&lines=Hello+There!;Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-#### 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
-#### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
-#### 📫 How to reach me: **joaoamadeusantos@gmail.com**
+###
+📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) <br><br>
+✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign) <br><br>
+📫 How to reach me: **joaoamadeusantos@gmail.com** <br><br>
 ‎ 
 <a href="https://github.com/joaoafs/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&theme=transparent" />
