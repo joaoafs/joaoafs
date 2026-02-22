@@ -4,10 +4,6 @@
 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) <br><br>
 ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign) <br><br>
 📫 How to reach me: **joaoamadeusantos@gmail.com** <br><br>
-‎ 
-<a href="https://github.com/joaoafs/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&theme=transparent" />
-</a>
 ㅤ
 <p align="left">
 <a href="https://linkedin.com/in/jamadeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamadeu" height="30" width="40" /></a>
