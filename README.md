@@ -8,9 +8,6 @@
 <a href="https://github.com/joaoafs/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/joaoafs/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafs&layout=compact&theme=transparent&langs_count=8&card_width=320" />
-</a>
 ㅤ
 <p align="left">
 <a href="https://linkedin.com/in/jamadeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamadeu" height="30" width="40" /></a>
